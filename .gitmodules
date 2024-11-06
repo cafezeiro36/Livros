@@ -1,3 +1,6 @@
 [submodule "livros-angular"]
 	path = livros-angular
 	url = https://github.com/cafezeiro36/livros.git
+[submodule "livros"]
+	path = livros
+	url = https://github.com/cafezeiro36/livros.git
